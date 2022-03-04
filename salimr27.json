@@ -1,0 +1,2247 @@
+[
+  {
+    "name": "Use Arrow Functions to Write Concise Anonymous Functions",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Smallest Common Multiple",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Map the Debris",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Make a Person",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Arguments Optional",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Everything Be True",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Binary Agents",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Steamroller",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Drop it",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Sum All Primes",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Sum All Odd Fibonacci Numbers",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Convert HTML Entities",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Sorted Union",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Missing letters",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "Pig Latin",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin",
+    "date": "Mar 3, 2022"
+  },
+  {
+    "name": "DNA Pairing",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Search and Replace",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Spinal Tap Case",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Wherefore art thou",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Seek and Destroy",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Diff Two Arrays",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Sum All Numbers in a Range",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Introduction to Currying and Partial Application",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the some Method to Check that Any Elements in an Array Meet a Criteria",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-some-method-to-check-that-any-elements-in-an-array-meet-a-criteria",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the every Method to Check that Every Element in an Array Meets a Criteria",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Apply Functional Programming to Convert Strings to URL Slugs",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Combine an Array into a String Using the join Method",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-an-array-into-a-string-using-the-join-method",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Split a String into an Array Using the split Method",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Return a Sorted Array Without Changing the Original Array",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-a-sorted-array-without-changing-the-original-array",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Sort an Array Alphabetically using the sort Method",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/sort-an-array-alphabetically-using-the-sort-method",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the reduce Method to Analyze Data",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Add Elements to the End of an Array Using concat Instead of push",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/add-elements-to-the-end-of-an-array-using-concat-instead-of-push",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Combine Two Arrays Using the concat Method",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-two-arrays-using-the-concat-method",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Remove Elements from an Array Using slice Instead of splice",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/remove-elements-from-an-array-using-slice-instead-of-splice",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Return Part of an Array Using the slice Method",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-part-of-an-array-using-the-slice-method",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Implement the filter Method on a Prototype",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-the-filter-method-on-a-prototype",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the filter Method to Extract Data from an Array",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Implement map on a Prototype",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-map-on-a-prototype",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the map Method to Extract Data from an Array",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Refactor Global Variables Out of Functions",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Pass Arguments to Avoid External Dependence in a Function",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/pass-arguments-to-avoid-external-dependence-in-a-function",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Avoid Mutations and Side Effects Using Functional Programming",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/avoid-mutations-and-side-effects-using-functional-programming",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Understand the Hazards of Using Imperative Code",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/understand-the-hazards-of-using-imperative-code",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Understand Functional Programming Terminology",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/understand-functional-programming-terminology",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Learn About Functional Programming",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/learn-about-functional-programming",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use an IIFE to Create a Module",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-an-iife-to-create-a-module",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Understand the Immediately Invoked Function Expression (IIFE)",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-immediately-invoked-function-expression-iife",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Closure to Protect Properties Within an Object from Being Modified Externally",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use a Mixin to Add Common Behavior Between Unrelated Objects",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Override Inherited Methods",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Add Methods After Inheritance",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/add-methods-after-inheritance",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Reset an Inherited Constructor Property",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/reset-an-inherited-constructor-property",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Set the Child's Prototype to an Instance of the Parent",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/set-the-childs-prototype-to-an-instance-of-the-parent",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Inherit Behaviors from a Supertype",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/inherit-behaviors-from-a-supertype",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Inheritance So You Don't Repeat Yourself",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Understand the Prototype Chain",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Understand Where an Object’s Prototype Comes From",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-where-an-objects-prototype-comes-from",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Remember to Set the Constructor Property when Changing the Prototype",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/remember-to-set-the-constructor-property-when-changing-the-prototype",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Change the Prototype to a New Object",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/change-the-prototype-to-a-new-object",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Understand the Constructor Property",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Iterate Over All Properties",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/iterate-over-all-properties",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Prototype Properties to Reduce Duplicate Code",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-prototype-properties-to-reduce-duplicate-code",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Understand Own Properties",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-own-properties",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Verify an Object's Constructor with instanceof",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/verify-an-objects-constructor-with-instanceof",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Extend Constructors to Receive Arguments",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/extend-constructors-to-receive-arguments",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use a Constructor to Create Objects",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-constructor-to-create-objects",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Define a Constructor Function",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/define-a-constructor-function",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Make Code More Reusable with the this Keyword",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/make-code-more-reusable-with-the-this-keyword",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Create a Method on an Object",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-method-on-an-object",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Dot Notation to Access the Properties of an Object",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-dot-notation-to-access-the-properties-of-an-object",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Create a Basic JavaScript Object",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-basic-javascript-object",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Chunky Monkey",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Mutations",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Where do I Belong",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Falsy Bouncer",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Slice and Splice",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Title Case a Sentence",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Boo who",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/boo-who",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Finders Keepers",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Truncate a String",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Repeat a String Repeat a String",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Confirm the Ending",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/confirm-the-ending",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Return Largest Numbers in Arrays",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Find the Longest Word in a String",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Factorialize a Number",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Reverse a String",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Convert Celsius to Fahrenheit",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Modify an Array Stored in an Object",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Generate an Array of All Object Keys with Object.keys()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Iterate Through the Keys of an Object with a for...in Statement",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Check if an Object has a Property",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-if-an-object-has-a-property",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the delete Keyword to Remove Object Properties",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-the-delete-keyword-to-remove-object-properties",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Access Property Names with Bracket Notation",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Modify an Object Nested Within an Object",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Add Key-Value Pairs to JavaScript Objects",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Create complex multi-dimensional arrays",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Iterate Through All an Array's Items Using For Loops",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Check For The Presence of an Element With indexOf()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Combine Arrays with the Spread Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Copy an Array with the Spread Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-an-array-with-the-spread-operator",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Copy Array Items Using slice()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Add Items Using splice()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Remove Items Using splice()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Remove Items from an Array with pop() and shift()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-from-an-array-with-pop-and-shift",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Add Items to an Array with push() and unshift()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Access an Array's Contents Using Bracket Notation",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use an Array to Store a Collection of Data",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Remove Whitespace from Start and End",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Capture Groups to Search and Replace",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/use-capture-groups-to-search-and-replace",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Reuse Patterns Using Capture Groups",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Check For Mixed Grouping of Characters",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-mixed-grouping-of-characters",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Positive and Negative Lookahead",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Check for All or None",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-all-or-none",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Specify Exact Number of Matches",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-exact-number-of-matches",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Specify Only the Lower Number of Matches",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-only-the-lower-number-of-matches",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Specify Upper and Lower Number of Matches",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-upper-and-lower-number-of-matches",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Non-Whitespace Characters",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-non-whitespace-characters",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Whitespace",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-whitespace",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Restrict Possible Usernames",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match All Non-Numbers",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-non-numbers",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match All Numbers",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-numbers",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Everything But Letters and Numbers",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-everything-but-letters-and-numbers",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match All Letters and Numbers",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-letters-and-numbers",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Ending String Patterns",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-ending-string-patterns",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Beginning String Patterns",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-beginning-string-patterns",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Find One or More Criminals in a Hunt",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Find Characters with Lazy Matching",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Characters that Occur Zero or More Times",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Characters that Occur One or More Times",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-one-or-more-times",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Single Characters Not Specified",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-characters-not-specified",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Numbers and Letters of the Alphabet",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-numbers-and-letters-of-the-alphabet",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Letters of the Alphabet",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-letters-of-the-alphabet",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Single Character with Multiple Possibilities",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-character-with-multiple-possibilities",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Anything with Wildcard Period",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-anything-with-wildcard-period",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Find More Than the First Match",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-more-than-the-first-match",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Extract Matches",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/extract-matches",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Ignore Case While Matching",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/ignore-case-while-matching",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match a Literal String with Different Possibilities",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-a-literal-string-with-different-possibilities",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Match Literal Strings",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-literal-strings",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Using the Test Method",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Prevent Object Mutation",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/prevent-object-mutation",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Mutate an Array Declared with const",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Compare Scopes of the var and let Keywords",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Handle a Rejected Promise with catch",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Handle a Fulfilled Promise with then",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-fulfilled-promise-with-then",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Complete a Promise with resolve and reject",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/complete-a-promise-with-resolve-and-reject",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Create a JavaScript Promise",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-javascript-promise",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Import a Default Export",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Create an Export Fallback with export default",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use * to Import Everything from a File",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Reuse JavaScript Code Using import",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/reuse-javascript-code-using-import",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use export to Share a Code Block",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-export-to-share-a-code-block",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Create a Module Script",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-module-script",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use getters and setters to Control Access to an Object",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use class Syntax to Define a Constructor Function",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Write Concise Declarative Functions with ES6",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Write Concise Object Literal Declarations Using Object Property Shorthand",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-object-literal-declarations-using-object-property-shorthand",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Create Strings using Template Literals",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Destructuring Assignment to Pass an Object as a Function's Parameters",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Destructuring Assignment to Assign Variables from Arrays",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Destructuring Assignment to Assign Variables from Nested Objects",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Destructuring Assignment to Assign Variables from Objects",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-objects",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Destructuring Assignment to Extract Values from Objects",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-extract-values-from-objects",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the Spread Operator to Evaluate Arrays In-Place",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the Rest Parameter with Function Parameters",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-the-rest-parameter-with-function-parameters",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Set Default Parameters for Your Functions",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Write Arrow Functions with Parameters",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the Conditional (Ternary) Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Iterate Odd Numbers With a For Loop",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-odd-numbers-with-a-for-loop",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Generate Random Fractions with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Iterate Through an Array with a For Loop",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Recursion to Create a Range of Numbers",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the parseInt Function with a Radix",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function-with-a-radix",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Iterate with JavaScript For Loops",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Record Collection",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Accessing Nested Objects",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Delete Properties from a JavaScript Object",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Generate Random Whole Numbers within a Range",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-within-a-range",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Generate Random Whole Numbers with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-with-javascript",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Manipulating Complex Objects",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Count Backwards With a For Loop",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/count-backwards-with-a-for-loop",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Profile Lookup",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Iterate with JavaScript Do...While Loops",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Replace Loops using Recursion",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Updating Object Properties",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Multiple Conditional (Ternary) Operators",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Nesting For Loops",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Iterate with JavaScript While Loops",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Accessing Nested Arrays",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use the parseInt Function",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Testing Objects for Properties",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Use Recursion to Create a Countdown",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-countdown",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Add New Properties to a JavaScript Object",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-new-properties-to-a-javascript-object",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Using Objects for Lookups",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Accessing Object Properties with Variables",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables",
+    "date": "Mar 2, 2022"
+  },
+  {
+    "name": "Accessing Object Properties with Bracket Notation",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Accessing Object Properties with Dot Notation",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Build JavaScript Objects",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Counting Cards",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Return Early Pattern for Functions",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Returning Boolean Values from Functions",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/returning-boolean-values-from-functions",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Replacing If Else Chains with Switch",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Multiple Identical Options in Switch Statements",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adding a Default Option in Switch Statements",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Selecting from Many Options with Switch Statements",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Golf Code",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Chaining If Else Statements",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Logical Order in If Else Statements",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Introducing Else If Statements",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Introducing Else Statements",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparisons with the Logical Or Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparisons with the Logical And Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-and-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparison with the Less Than Or Equal To Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparison with the Less Than Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparison with the Greater Than Or Equal To Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparison with the Greater Than Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparison with the Strict Inequality Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-inequality-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparison with the Inequality Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Practice comparing different values",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparison with the Strict Equality Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-equality-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comparison with the Equality Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Conditional Logic with If Statements",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Understanding Boolean Values",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Stand in Line",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Assignment with a Returned Value",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assignment-with-a-returned-value",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Understanding Undefined Value returned from a Function",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Global vs. Local Scope in Functions",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs--local-scope-in-functions",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Local Scope and Functions",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Global Scope and Functions",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Return a Value from a Function with Return",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Passing Values to Functions with Arguments",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Write Reusable JavaScript with Functions",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Shopping List",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Manipulate Arrays With unshift()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Manipulate Arrays With shift()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Manipulate Arrays With pop()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Manipulate Arrays With push()",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Access Multi-Dimensional Arrays With Indexes",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Modify Array Data With Indexes",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/modify-array-data-with-indexes",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Access Array Data with Indexes",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Nest one Array within Another Array",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Store Multiple Values in one Variable using JavaScript Arrays",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Word Blanks",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/word-blanks",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Bracket Notation to Find the Nth-to-Last Character in a String",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Bracket Notation to Find the Last Character in a String",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-last-character-in-a-string",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Bracket Notation to Find the Nth Character in a String",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-character-in-a-string",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Understand String Immutability",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understand-string-immutability",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Bracket Notation to Find the First Character in a String",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Find the Length of a String",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Appending Variables to Strings",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/appending-variables-to-strings",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Constructing Strings with Variables",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Concatenating Strings with the Plus Equals Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Concatenating Strings with Plus Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-plus-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Escape Sequences in Strings",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Quoting Strings with Single Quotes",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/quoting-strings-with-single-quotes",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Escaping Literal Quotes in Strings",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Compound Assignment With Augmented Division",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Compound Assignment With Augmented Multiplication",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Compound Assignment With Augmented Subtraction",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-subtraction",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Compound Assignment With Augmented Addition",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Finding a Remainder in JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Divide One Decimal by Another with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-decimal-by-another-with-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Multiply Two Decimals with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-decimals-with-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create Decimal Numbers with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Decrement a Number with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/decrement-a-number-with-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Increment a Number with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/increment-a-number-with-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Divide One Number by Another with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-number-by-another-with-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Multiply Two Numbers with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-numbers-with-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Subtract One Number from Another with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/subtract-one-number-from-another-with-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Two Numbers with JavaScript",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Declare a Read-Only Variable with the const Keyword",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-a-read-only-variable-with-the-const-keyword",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Explore Differences Between the var and let Keywords",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/explore-differences-between-the-var-and-let-keywords",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Understanding Case Sensitivity in Variables",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Understanding Uninitialized Variables",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Declare String Variables",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Initializing Variables with the Assignment Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Assigning the Value of One Variable to Another",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assigning-the-value-of-one-variable-to-another",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Storing Values with the Assignment Operator",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Declare JavaScript Variables",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comment Your JavaScript Code",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create Grids within Grids",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-grids-within-grids",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Media Queries to Create Responsive Layouts",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create Flexible Layouts Using auto-fit",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create Flexible Layouts Using auto-fill",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Limit Item Size Using the minmax Function",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Reduce Repetition Using the repeat Function",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/reduce-repetition-using-the-repeat-function",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use grid-area Without Creating an Areas Template",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-area-without-creating-an-areas-template",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Place Items in Grid Areas Using the grid-area Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/place-items-in-grid-areas-using-the-grid-area-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Divide the Grid Into an Area Template",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/divide-the-grid-into-an-area-template",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Align All Items Vertically using align-items",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-all-items-vertically-using-align-items",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Align All Items Horizontally using justify-items",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-all-items-horizontally-using-justify-items",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Align an Item Horizontally using justify-self",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Align an Item Vertically using align-self",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-vertically-using-align-self",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use grid-row to Control Spacing",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-row-to-control-spacing",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use grid-column to Control Spacing",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-column-to-control-spacing",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Gaps Faster with grid-gap",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Column Gap Using grid-column-gap",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-column-gap-using-grid-column-gap",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Row Gap using grid-row-gap",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-row-gap-using-grid-row-gap",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use CSS Grid units to Change the Size of Columns and Rows",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Rows with grid-template-rows",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-rows-with-grid-template-rows",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Columns with grid-template-columns",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-columns-with-grid-template-columns",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create Your First CSS Grid",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the align-self Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the order Property to Rearrange Items",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the flex Shorthand Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shorthand-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the flex-basis Property to Set the Initial Size of an Item",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the flex-grow Property to Expand Items",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the flex-shrink Property to Shrink Items",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the flex-wrap Property to Wrap a Row or Column",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the align-items Property in the Tweet Embed",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Align Elements Using the justify-content Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the justify-content Property in the Tweet Embed",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Align Elements Using the align-items Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the flex-direction Property to Make a Row",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Apply the flex-direction Property to Create Rows in the Tweet Embed",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Flex Superpowers to the Tweet Embed",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the flex-direction Property to Make a Column",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-column",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Apply the flex-direction Property to Create a Column in the Tweet Embed",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use display: flex to Position Two Boxes",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Media Query",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/create-a-media-query",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create Visual Balance Using the text-align Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-visual-balance-using-the-text-align-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the Width of an Element Using the width Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-width-of-an-element-using-the-width-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Make Typography Responsive",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use a Retina Image for Higher Resolution Displays",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/use-a-retina-image-for-higher-resolution-displays",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Make an Image Responsive",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-an-image-responsive",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Make Motion More Natural Using a Bezier Curve",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use a Bezier Curve to Move a Graphic",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-bezier-curve-to-move-a-graphic",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Learn How Bezier Curves Work",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-how-bezier-curves-work",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Change Animation Timing with Keywords",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-animation-timing-with-keywords",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Animate Multiple Elements at Variable Rates",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/animate-multiple-elements-at-variable-rates",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Animate Elements at Variable Rates",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/animate-elements-at-variable-rates",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Make a CSS Heartbeat using an Infinite Animation Count",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Animate Elements Continually Using an Infinite Animation Count",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create Visual Direction by Fading an Element from Left to Right",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-visual-direction-by-fading-an-element-from-left-to-right",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create Movement Using CSS Animation",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-movement-using-css-animation",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Modify Fill Mode of an Animation",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use CSS Animation to Change the Hover State of a Button",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Learn How the CSS @keyframes and animation Properties Work",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a More Complex Shape Using CSS and HTML",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Graphic Using CSS",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-graphic-using-css",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewy-to-skew-an-element-along-the-y-axis",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the CSS Transform Property skewX to Skew an Element Along the X-Axis",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the CSS Transform scale Property to Scale an Element on Hover",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-scale-an-element-on-hover",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the CSS Transform scale Property to Change the Size of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create Texture by Adding a Subtle Pattern as a Background Image",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use a CSS Linear Gradient to Create a Striped Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Gradual CSS Linear Gradient",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the Tone of a Color",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the Hue of a Color",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the Color of Various Elements to Complementary Colors",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Learn about Tertiary Colors",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-about-tertiary-colors",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Learn about Complementary Colors",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-about-complementary-colors",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Center an Element Horizontally Using the margin Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Change the Position of Overlapping Elements with the z-index Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-the-position-of-overlapping-elements-with-the-z-index-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Push Elements Left or Right with the float Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/push-elements-left-or-right-with-the-float-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Lock an Element to the Browser Window with Fixed Positioning",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Lock an Element to its Parent with Absolute Positioning",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Move a Relatively Positioned Element with CSS Offsets",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Change an Element's Relative Position",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-an-elements-relative-position",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the Hover State of an Anchor Tag",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hover-state-of-an-anchor-tag",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Set the line-height of Paragraphs",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/set-the-line-height-of-paragraphs",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Set the font-size of Paragraph Text",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/set-the-font-size-of-paragraph-text",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Set the font-weight for Multiple Heading Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/set-the-font-weight-for-multiple-heading-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Set the font-size for Multiple Heading Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/set-the-font-size-for-multiple-heading-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the text-transform Property to Make Text Uppercase",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-text-transform-property-to-make-text-uppercase",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Decrease the Opacity of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add a box-shadow to a Card-like Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the Size of a Heading Element Versus a Paragraph Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-size-of-a-heading-element-versus-a-paragraph-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the background-color Property of Text",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-background-color-property-of-text",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Horizontal Line Using the hr Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-horizontal-line-using-the-hr-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the s Tag to Strikethrough Text",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-s-tag-to-strikethrough-text",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the em Tag to Italicize Text",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-em-tag-to-italicize-text",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the u Tag to Underline Text",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-u-tag-to-underline-text",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the strong Tag to Make Text Bold",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-strong-tag-to-make-text-bold",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the Height of an Element Using the height Property",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-height-of-an-element-using-the-height-property",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use a media query to change a variable",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Change a variable for a specific area",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-a-variable-for-a-specific-area",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Inherit CSS Variables",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-css-variables",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Improve Compatibility with Browser Fallbacks",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/improve-compatibility-with-browser-fallbacks",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Attach a Fallback value to a CSS Variable",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use a custom CSS Variable",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-custom-css-variable",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a custom CSS Variable",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/create-a-custom-css-variable",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use CSS Variables to change several elements at once",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use RGB to Mix Colors",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-to-mix-colors",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use RGB values to Color Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-values-to-color-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Abbreviated Hex Code",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-abbreviated-hex-code",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Hex Code to Mix Colors",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-to-mix-colors",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Hex Code for Specific Colors",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-for-specific-colors",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Override All Other Styles by using Important",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-other-styles-by-using-important",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Override Class Declarations with Inline Styles",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-with-inline-styles",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Override Class Declarations by Styling ID Attributes",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Override Styles in Subsequent CSS",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-styles-in-subsequent-css",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Prioritize One Style Over Another",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/prioritize-one-style-over-another",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Inherit Styles from the Body Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-styles-from-the-body-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Style the HTML Body Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-the-html-body-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Understand Absolute versus Relative Units",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/understand-absolute-versus-relative-units",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Attribute Selectors to Style Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Clockwise Notation to Specify the Margin of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use Clockwise Notation to Specify the Padding of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Different Margins to Each Side of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Different Padding to Each Side of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add a Negative Margin to an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-a-negative-margin-to-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the Margin of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-margin-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Adjust the Padding of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use an id Attribute to Style an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-an-id-attribute-to-style-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Set the id of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-id-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Give a Background Color to a div Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/give-a-background-color-to-a-div-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Make Circular Images with a border-radius",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/make-circular-images-with-a-border-radius",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Rounded Corners with border-radius",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-rounded-corners-with-border-radius",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Borders Around Your Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-borders-around-your-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Size Your Images",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-images",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Specify How Fonts Should Degrade",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/specify-how-fonts-should-degrade",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Import a Google Font",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Set the Font Family of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-font-family-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Change the Font Size of an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-font-size-of-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Style Multiple Elements with a CSS Class",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-multiple-elements-with-a-css-class",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use a CSS Class to Style an Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-class-to-style-an-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use CSS Selectors to Style Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-selectors-to-style-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Change the Color of Text",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Define the Head and Body of an HTML Document",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Declare the Doctype of an HTML Document",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Nest Many Elements within a Single div Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Check Radio Buttons and Checkboxes by Default",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use the value attribute with Radio Buttons and Checkboxes",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Set of Checkboxes",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Set of Radio Buttons",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Use HTML5 to Require a Field",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Headline with the h2 Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add a Submit Button to a Form",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Form Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-form-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Placeholder Text to a Text Field",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Text Field",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create an Ordered List",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-an-ordered-list",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Create a Bulleted Unordered List",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Turn an Image into a Link",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Make Dead Links Using the Hash Symbol",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Nest an Anchor Element within a Paragraph",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Link to Internal Sections of a Page with Anchor Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Link to External Pages with Anchor Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Add Images to Your Website",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-images-to-your-website",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Introduction to HTML5 Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/introduction-to-html5-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Delete HTML Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/delete-html-elements",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Comment out HTML",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/comment-out-html",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Uncomment HTML",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/uncomment-html",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Fill in the Blank with Placeholder Text",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/fill-in-the-blank-with-placeholder-text",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Inform with the Paragraph Element",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/inform-with-the-paragraph-element",
+    "date": "Mar 1, 2022"
+  },
+  {
+    "name": "Say Hello to HTML Elements",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements",
+    "date": "Mar 1, 2022"
+  }
+]

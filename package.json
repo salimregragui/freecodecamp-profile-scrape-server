@@ -1,0 +1,27 @@
+{
+  "name": "freecodecamp-profile-scrape-server",
+  "version": "1.0.0",
+  "description": "An expressjs server that scrapes a user profile and gets all challenges done by them",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "scrape",
+    "fcc",
+    "freecodecamp"
+  ],
+  "author": "Salim Regragui",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "puppeteer": "^13.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
