@@ -22,13 +22,14 @@ app.get("/api/search/:name", (req, res) => {
   const allChallengesDone = [];
 
   try {
+    const chromeOptions = {
+      headless: true,
+      defaultViewport: null,
+      args: ["--incognito", "--no-sandbox", "--single-process", "--no-zygote"],
+    };
+
     (async () => {
-      const browser = await puppeteer.launch({
-        defaultViewport: {
-          width: 1920,
-          height: 1080,
-        },
-      });
+      const browser = await puppeteer.launch(chromeOptions);
 
       const page = await browser.newPage();
 
